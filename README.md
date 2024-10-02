@@ -1,4 +1,6 @@
-# JNUC-1261
+# JNUC-1261 - ZTNA Misconceptions and Why It Should Replace Your VPN
+
+Thank you for joining our session! Here's some useful resources!
 
 Jamf Connect IdP Integrations: https://learn.jamf.com/en-US/bundle/jamf-connect-documentation-current/page/Identity_Provider_Integrations.html
 
